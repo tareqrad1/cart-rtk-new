@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://previews.123rf.com/images/mamanamsai/mamanamsai1508/mamanamsai150800257/45438283-e-commerce-concept-design-on-white-background-clean-vector.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "https://img.freepik.com/premium-vector/e-commerce-orange-background_23-2147650065.jpg?w=2000"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "https://cdn1.vectorstock.com/i/1000x1000/60/15/colorful-poster-in-white-background-of-e-commerce-vector-16596015.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGOMI79G572bdSintQDST5a9y8jJE7khjk4_8rHFxIt8Mr_iH1qbpNqQv8ENtbQYS0ihQ&usqp=CAU"
+  }
+]
